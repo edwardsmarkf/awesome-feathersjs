@@ -241,6 +241,7 @@
 - [feathers-versionate](https://github.com/luke3butler/feathers-versionate) - Utility for creating and working with nested service paths.
 - [feathers-findone](https://github.com/fridays/feathers-findone) - Adds a .findOne() method to services in Feathers.js
 - [feathers-opentracing](https://github.com/dekelev/feathers-opentracing) - OpenTracing integration for FeathersJS services
+- [fastfeathers](https://github.com/edwardsmarkf/fastfeathers) - collection of bash-shell scripts to run various feathers examples quickly
 
 
 ### Validation
